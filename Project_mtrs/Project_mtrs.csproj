@@ -42,8 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HyperPing.cs" />
-    <Compile Include="PingObject.cs" />
+    <Compile Include="Hyper.cs" />
+    <Compile Include="HopObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
